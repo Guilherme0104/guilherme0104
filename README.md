@@ -21,8 +21,11 @@
 <p>
   <img alt="HTML" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
+  <img alt="JavaScript" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg?short_path=991e506">
   <img alt="Java" height="60" width="85" src="https://skillicons.dev/icons?i=java">
-  <img alt="Python" height="60" width="85" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"> 
+  <img alt="Python" height="60" width="85" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg">
+  <img alt="C++" height="60" width="85" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg">
+
 </p>
 
 <!-- Status -->
